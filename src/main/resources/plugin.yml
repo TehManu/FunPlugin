@@ -1,0 +1,5 @@
+name: TestPlugin
+main: de.tehmanu.funplugin.FunPlugin
+version: 1.0
+author: TehManu
+api-version: 1.19
